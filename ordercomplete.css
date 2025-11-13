@@ -1,0 +1,40 @@
+ *{
+            padding: 0px;
+            margin: 0px;
+            box-sizing: border-box;
+        
+        }
+         .navbar{
+            position: absolute;
+        }
+        .navbar ul{
+            margin-left: 20px;
+            display: flex;
+            gap: 110px;
+            
+        }
+        .navbar ul li{
+            list-style: none;
+            display: flex;
+            color:black;
+            
+        }
+        .navbar ul li button{
+            width: 35px;
+           border-radius: 95%;
+           border: none;
+            background-color:rgb(250, 246, 246);
+        }
+        .hero-section{
+            display: flex;
+           justify-content: center;
+          gap: 50px;
+        }
+        .hero-section p{
+            margin-top: 50px;
+           font-size: 25px;
+           font-family: "Poppins", sans-serif;
+           color: rgb(230, 229, 229);
+           margin-bottom: 30px;
+        }
+        

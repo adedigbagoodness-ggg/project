@@ -1,0 +1,231 @@
+ *{
+            padding: 0px;
+            margin: 0px;
+            box-sizing: border-box;
+        
+        }
+         .navbar{
+            position: absolute;
+        }
+        .navbar ul{
+            margin-left: 20px;
+            display: flex;
+            gap: 125px;
+            
+        }
+        .navbar ul li{
+            list-style: none;
+            display: flex;
+            color:black;
+            
+        }
+        .navbar ul li button{
+            width: 35px;
+           border-radius: 95%;
+           border: none;
+            background-color:rgb(250, 246, 246);
+        }
+        .hero-section{
+            display: flex;
+           justify-content: center;
+          gap: 50px;
+        }
+        .hero-section p{
+            margin-top: 50px;
+           font-size: 25px;
+           font-family: "Poppins", sans-serif;
+           color: rgb(230, 229, 229);
+           margin-bottom: 30px;
+        }
+        #text-section1{
+            display: flex;
+            justify-content: center;
+            gap: 600px;
+            margin-top: 30px;
+            
+        }
+        .hr-line{
+            margin-left: 260px;
+            margin-right: 260px;
+            border: 1.3px solid black;
+            margin-top: 5px;
+        }
+        #text-section2{
+            display: flex;
+             justify-content: center;
+            gap: 595px;
+            font-size: small;
+            margin-top: 10px;
+            color: rgb(98, 97, 97);
+            margin-bottom: 20px;
+            
+        }
+          #text-section3{
+            display: flex;
+            justify-content: center;
+            gap: 600px;
+            margin-top: 20px;
+            
+        }
+         .form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-width: 350px;
+  padding: 20px;
+  position: relative;
+  background-color: rgba(255, 255, 255, 0.989);
+  color: #fff;
+  font-family: poppins;
+  margin-left: 450px;
+}
+
+.title {
+  letter-spacing: -1px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  padding-left: 30px;
+  color:black;
+}
+.signin {
+  font-size: 14.5px;
+  color: rgba(30, 29, 29, 0.7);
+}
+
+.signin {
+  text-align: center;
+  font-size: 13px;
+}
+
+.signin a {
+  color:blue;
+  text-decoration: none;
+}
+
+.flex {
+  display: flex;
+  width: 100%;
+  gap: 6px;
+}
+
+.form label {
+  position: relative;
+}
+
+.form label .input {
+  background-color: #ffffff;
+  color: #fff;
+  width: 100%;
+  padding: 20px 05px 05px 10px;
+  outline: 0;
+  border: 1.5px solid rgba(11, 10, 10, 0.397);
+  border-radius: 10px;
+}
+.next {
+  border: none;
+  outline: none;
+  padding: 3px 50px;
+  margin-left: 540px;
+  margin-top: 10px;
+  box-shadow: 1px 2px 3px rgb(33, 33, 33);
+  border-radius: 15px;
+  color: #fff;
+  font-size: 16px;
+  transform: .3s ease;
+  background-color: rgb(243, 104, 127);
+ font-family: "Poppins", sans-serif;
+}
+span{
+color: black;
+}
+::placeholder{
+    color: rgb(199, 199, 202);
+    font-size: 12px;
+    /* font-family: "DM Serif Display", serif; */
+}
+
+  .bnt-parent{
+        display: flex;
+        gap: 600px;
+        justify-content: center;
+      }
+       .bnt1{
+        padding: 10px 50px;
+        background-color: rgb(254, 117, 139);
+        border-radius: 10px;
+        border: none;
+        color: white;
+       }
+       .bnt2{
+        padding: 10px 50px;
+        background-color: white;
+        color: black;
+        border-radius: 10px;
+        border: 1px solid rgb(254, 117, 139);
+       }
+  .footer-background{
+            position: absolute;
+            width: 100%;
+            margin-top: 50px;
+            
+        }
+        .footer-P{
+            margin-left: 600px;
+            margin-top: 50px;
+            position: absolute;
+          display: flex;
+        align-items: center;
+        }
+       .footer-section {
+        display:flex;
+        margin-top: 40px;
+        
+        color: white;
+      }
+      .footer-section2{
+        color: white;
+        position: absolute;
+        padding-top: 200px;
+        display: flex;
+        gap: 50px;
+        margin-left: 300px;
+       
+       
+      }
+      .footer-section2 li{
+        list-style: none;
+      }
+      .get{
+        font-size: large;
+        margin-left: 100px;
+        margin-top: 50px;
+      }
+      .card22A{
+        margin-top: 80px;
+        position: absolute;
+        width: 100px;
+        margin-left: 350px;
+      }
+      .card23A{
+        position: absolute;
+        margin-top: 80px;
+        margin-left: 470px;
+        width: 100px;
+      }
+      .line{
+        position: absolute;
+        width:1259px;
+        border: 1.4px solid white;
+        margin-top: 370px;
+       
+      }
+      .fotter-section3{
+        display: flex;
+        color: white;
+        position: absolute;
+        gap: 50px;
+        margin-top: 380px;
+        margin-left: 400px;
+      }
+    

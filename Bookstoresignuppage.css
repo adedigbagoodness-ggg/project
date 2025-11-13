@@ -1,0 +1,132 @@
+ *{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+ }
+ 
+ .form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-width: 350px;
+  padding: 20px;
+  position: relative;
+  background-color: rgba(255, 255, 255, 0.989);
+  color: #fff;
+  font-family: poppins;
+  margin-left: 500px;
+  margin-top: 70px;
+}
+
+.title {
+  letter-spacing: -1px;
+  position: relative;
+  display: flex;
+  color:black;
+  font-size: 16px;
+  padding-left: 10px;
+}
+.form label {
+  position: relative;
+}
+
+.form label .input {
+  background-color: #ffffff;
+  color: #fff;
+  width: 100%;
+  padding: 20px 05px 05px 10px;
+  outline: 0;
+  border: 1.5px solid rgba(11, 10, 10, 0.397);
+  border-radius: 10px;
+}
+.signup {
+  border: none;
+  outline: none;
+  padding: 10px 130px;
+  margin-left: 520px;
+  box-shadow: 1px 2px 3px rgb(33, 33, 33);
+  border-radius: 10px;
+  color: #fff;
+  font-size: 16px;
+  transform: .3s ease;
+  background-color: rgb(243, 104, 127);
+ font-family: "Poppins", sans-serif;
+}
+span{
+color: black;
+}
+::placeholder{
+    color: rgb(92, 92, 93);
+    font-size: 10px;
+    /* font-family: "DM Serif Display", serif; */
+}
+.text-section{
+  justify-content: center;
+  text-align: center;
+  padding-left: 80px;
+  padding-top: 10px;
+  
+}
+.footer-background{
+            position: absolute;
+            width: 1256.10px;
+            height: 380px;
+            margin-top: 40px;
+        }
+        .footer-P{
+            margin-left: 600px;
+            margin-top: 50px;
+            position: absolute;
+        }
+       .footer-section {
+        display:flex;
+        color: white;
+      }
+      .footer-section2{
+        color: white;
+        position: absolute;
+        padding-top: 200px;
+        display: flex;
+        gap: 50px;
+        margin-left: 300px;
+       
+       
+      }
+      .footer-section2 li{
+        list-style: none;
+      }
+      .get{
+        font-size: large;
+        margin-left: 130px;
+        margin-top: 50px;
+      }
+      .card22A{
+        margin-top: 80px;
+        position: absolute;
+        width: 100px;
+        margin-left: 350px;
+      }
+      .card23A{
+        position: absolute;
+        margin-top: 80px;
+        margin-left: 470px;
+        width: 100px;
+      }
+      .line{
+        /* color: white; */
+        position: absolute;
+        width:1240px;
+        border: 1.4px solid white;
+        margin-top: 370px;
+       
+      }
+      .fotter-section3{
+        display: flex;
+        color: white;
+        position: absolute;
+        gap: 50px;
+        margin-top: 380px;
+        margin-left: 400px;
+       
+      }
+

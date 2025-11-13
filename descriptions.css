@@ -1,0 +1,224 @@
+ *{
+            padding: 0px;
+            margin: 0px;
+            box-sizing: border-box;
+        
+        }
+         .navbar{
+            position: absolute;
+         
+
+        }
+        .navbar ul{
+            margin-left: 20px;
+            display: flex;
+            gap: 125px;
+            
+        }
+        .navbar ul li{
+            list-style: none;
+            display: flex;
+            color:black;
+            
+        }
+        .navbar ul li button{
+            width: 35px;
+           border-radius: 95%;
+           border: none;
+            background-color:rgb(250, 246, 246);
+        }
+        .img{
+            float:left;
+            width: 250px;
+            height: 450px;
+            margin-left: 60px;
+           margin-top: 50px;
+          }
+          .P1{
+          font-size: 40px;
+          padding-top: 60px;
+            text-align:left;
+            font-family: "Inter", sans-serif;
+          }
+          .P2{
+            font-size: 30px;
+            font-family: "Inter", sans-serif;
+          }
+          .P3{
+            font-size: 20px;
+            font-family: "Inter", sans-serif;
+          }
+          .img-section{
+            display: flex;
+            gap: 10px;
+          }
+          .text-section1{
+            display: flex;
+            gap: 450px;
+          }
+          .text-section2 p{
+            text-align:left;
+            font: weight 11px; ;
+            justify-content: space-between;
+            padding-right: 300px;
+            font-weight: 500px;
+            text-decoration: ;
+          }
+          .stock{
+             font-family: "Poppins", sans-serif;
+             font-size: 30px;
+             padding-top: 30px;
+             margin-bottom: 50px;
+          }
+          .button-section{
+            display: flex;
+            gap: 40px;
+            justify-content: center;
+            margin-right: 50px;
+          }
+          .bnt1{
+            padding-top: 5px;
+            padding-bottom: 5px;
+            padding-left: 25px;
+            padding-right: 25px;
+           border-radius: 5px;
+           border: 1.5px solid black;
+           background-color: white;
+          }
+            .bnt2{
+            padding-top: 12px;
+            padding-bottom: 12px;
+            padding-left: 25px;
+            padding-right: 25px;
+           border-radius: 5px;
+           border: 1.5px solid black;
+           background-color: white;
+          }
+           .bnt3{
+            padding-top: 5px;
+            padding-bottom: 5px;
+            padding-left: 25px;
+            padding-right: 25px;
+           border-radius: 5px;
+           border: 1.5px solid black;
+          
+           box-shadow: 2px 2px 2px;
+          }
+           .bnt4{
+            padding-top: 12px;
+            padding-bottom: 12px;
+            padding-left: 40px;
+            padding-right: 40px;
+           border-radius: 5px;
+           border: 1.5px solid black;
+           background-color: white;
+          }
+          .bnt5{
+            padding-top: 12px;
+            padding-bottom: 12px;
+            padding-left: 45px;
+            padding-right: 45px;
+           border-radius: 5px;
+           border: 1.5px solid black;
+           background-color: white;
+          }
+          .bnt6{
+            padding-top: 12px;
+            padding-bottom: 12px;
+            padding-left: 50px;
+            padding-right: 50px;
+           border-radius: 5px;
+           border: 1.5px solid black;
+           background-color: white;
+          }
+          .bnt7{
+            margin-left: 500px;
+            font-size: 30px;
+            font-weight: 100px;
+            margin-top: 20px;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            padding-left: 30px;
+            padding-right: 30px;
+           border-radius: 20px;
+           border: 1.5px solid rgb(250, 3, 28);
+           background-color: white;
+           margin-bottom: 30px;
+          }
+           .card-p{
+            text-align: center;
+            font-weight: 400px;
+            font-size: 25px;
+            margin-bottom: 20px;
+            display: block;
+          }
+          .card-section{
+            justify-items: center;
+            align-items: center;
+          justify-content: center;
+            display: flex;
+            gap: 50px;
+          }
+           
+        .footer-background{
+            position: absolute;
+            width: 100%;
+            height: 380px;
+            margin-top: 40px;
+        }
+        .footer-P{
+            margin-left: 600px;
+            margin-top: 50px;
+            position: absolute;
+        }
+       .footer-section {
+        margin-top: 40px;
+        color: white;
+      }
+      .footer-section2{
+        color: white;
+        position: absolute;
+        padding-top: 200px;
+        display: flex;
+        gap: 50px;
+        margin-left: 300px;
+       
+       
+      }
+      .footer-section2 li{
+        list-style: none;
+      }
+      .get{
+        font-size: large;
+        margin-left: 100px;
+        margin-top: 50px;
+      }
+      .card22A{
+        margin-top: 80px;
+        position: absolute;
+        width: 100px;
+        margin-left: 350px;
+      }
+      .card23A{
+        position: absolute;
+        margin-top: 80px;
+        margin-left: 470px;
+        width: 100px;
+      }
+      .line{
+        /* color: white; */
+        position: absolute;
+        width:1259px;
+        border: 1.4px solid white;
+        margin-top: 370px;
+       
+      }
+      .fotter-section3{
+        display: flex;
+        color: white;
+        position: absolute;
+        gap: 50px;
+        margin-top: 380px;
+        margin-left: 400px;
+       
+      }

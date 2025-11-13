@@ -1,0 +1,142 @@
+*{
+            padding: 0px;
+            margin: 0px;
+            box-sizing: border-box;
+        
+        }
+         .navbar{
+            position: absolute;
+         
+
+        }
+        .navbar ul{
+            margin-left: 20px;
+            display: flex;
+            gap: 125px;
+            
+        }
+        .navbar ul li{
+            list-style: none;
+            display: flex;
+            color:black;
+            
+        }
+        .navbar ul li button{
+            width: 35px;
+           border-radius: 95%;
+           border: none;
+            background-color:rgb(250, 246, 246);
+        }
+        .hero-section{
+            padding-top: 100px;
+            display: flex;
+            justify-content: center;
+            margin-right: 200px;
+        }
+        .hero-section p{
+            height: 30px;
+            padding-left: 10px;
+        }
+        .lady{
+            border-radius: 100%;
+            width: 150px;
+           float: left;
+           display: flex;
+        }
+        .card-section1{
+            display: flex;
+           gap: 50px;
+           padding-top: 50px;
+           padding-bottom: 50px;
+           padding-right: 200px;
+           padding-left: 200px;
+        }
+        .card-items1{
+             border-radius: 20px;
+            border: 1px solid black;
+            padding-top: 20px;
+            padding-left:30px;
+            padding-bottom:20px;
+            padding-right:30px ;
+            
+        }
+        .card-items1 img{
+           padding-right: 50px;
+           display: flex;
+        }
+        .card-section1 h1{
+            display: flex;
+        }
+
+        .card-section2{
+            display: flex;
+            gap: 80px;
+            margin-top: 20px;
+            justify-content: center;
+        }
+        
+        .footer-background{
+            position: absolute;
+            width: 100%;
+            margin-top: 40px;
+        }
+        .footer-P{
+          display: flex;
+          align-items: center;
+            margin-left: 600px;
+            margin-top: 50px;
+            position: absolute;
+        }
+       .footer-section {
+        display:flex;
+        margin-top: 10px;
+        
+        color: white;
+      }
+      .footer-section2{
+        color: white;
+        position: absolute;
+        padding-top: 250px;
+        display: flex;
+        gap: 50px;
+        margin-left: 300px;
+       
+       
+      }
+      .footer-section2 li{
+        list-style: none;
+      }
+      .get{
+        font-size: large;
+        margin-left: 120px;
+       
+      }
+      .card22A{
+        margin-top: 30px;
+        position: absolute;
+        width: 100px;
+        margin-left: 350px;
+      }
+      .card23A{
+        position: absolute;
+        margin-top: 30px;
+        margin-left: 470px;
+        width: 100px;
+      }
+      .line{
+        /* color: white; */
+        position: absolute;
+        width:1259px;
+        border: 1.4px solid white;
+        margin-top: 370px;
+       
+      }
+      .fotter-section3{
+        display: flex;
+        color: white;
+        position: absolute;
+        gap: 50px;
+        margin-top: 380px;
+        margin-left: 400px;
+       
+      }
